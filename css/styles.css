@@ -1,0 +1,381 @@
+
+
+
+header{
+    margin-bottom: 13%;
+    width: 100%;
+
+    
+
+}
+nav{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+nav img{
+width: 5%;
+}
+
+nav ul{
+display: flex;
+width: 60%;
+justify-content: space-between;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 30px;
+    
+
+}
+nav ul li a:hover{
+    padding: 10px;
+    background-color: orange;
+    color: wheat;
+}
+nav ul li{
+    list-style-type: none;
+    
+}
+.list{
+    background-color: orange;
+    color: white;
+    padding: auto;
+    
+}
+footer ul li{
+    color: white;
+
+}
+.front{
+    background-image: url(../images/FRONT\ VIEIW.jpg);
+    text-align: center;
+    margin: 0;
+    background-size: cover;
+    padding: 100px;
+    height: 50vh;
+}
+.front h1{
+    color: azure;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.front p{
+    color: azure;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+.middle{
+    height: 36vh;
+    width: 90%;
+     margin-left: 20px;
+     margin-top: 50px;
+     padding: 20px;
+     margin-bottom: 90px;
+     background-color: antiquewhite;
+     
+     
+}
+.middle h1{
+    color: #000;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+.book{
+    width: 20%;
+    margin: 10px;
+    padding: 10px;
+}
+.ton{
+background-color:  azure;
+    font-size: 20px;
+    width: 20%;
+    color: #000;
+    margin: 10px;
+    padding: 10px;
+    border: none;
+
+}
+.div{
+    margin: 10px;
+    padding: 10px;
+    width: 20%;
+    background-color: orange;
+    border: none;
+}
+
+#about{
+    display: flex;
+    margin-top: 15%;
+}
+.image img{
+    width: 80%;
+    padding: 10px;
+    margin: 20px;
+}
+.pink{
+    width: 30%;
+    padding: 30px;
+}
+ ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+}
+
+#our h1{
+    text-align: center;
+}
+.services{
+    display: flex;
+    justify-content: space-around;
+}
+.prd{
+width: 50%;
+font-size:100%;
+padding: 10px;
+margin: 20px;
+border-radius: 20px;
+}
+.lery{
+    display: flex;
+    
+}
+.misuse{
+    display:flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.testimonial{
+    width: 40%;
+    margin: 20px;
+    padding: 30px;
+    box-shadow:rgb(210, 210, 210) 1px 2px 10px 5px;
+    
+}
+
+#gallery h1{
+    text-align: center;
+    margin-top: 100px;
+
+}
+.lery button{
+    width: 20%;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#color{
+    background-color: darkorange;
+    color: aliceblue;
+}
+
+.images{
+    display: flex;
+}
+
+.images img{
+width: 90%;
+margin: 20px;
+padding: 10px;
+    
+}
+.third{
+    display: flex;
+}
+.fourth img{
+    width: 90%;
+    margin-left: 50px;
+}
+.fifth img{
+    width: 70%;
+}
+.blue{
+display: flex;
+width: 80%;
+margin: 10px;
+padding: 10px;
+}
+#zip{
+    
+    margin-left: 20px;
+}
+
+
+
+
+
+.set{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+.amen{
+    display: flex;
+    justify-content: center;
+    border: 1px solid orange;
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+
+table tr td{
+    padding: 15px;
+    color:darkorange ;
+}
+caption{
+    text-align: right;
+    padding: 10px;
+    margin: 10px;
+    font-size: 40px;
+    font-weight: bolder;
+    
+}
+.btn{
+    border: none;
+    background-color: unset;
+}
+.btn h2{
+    width: 2.5em;
+    background-color: orange;
+    color: aliceblue;
+    font-size: 40px;
+    padding: 10px 0;
+    height: 40vh;
+}
+.btn h1{
+    background-color: white;
+    color: orange;
+    width: 2.5em;
+    font-size: 30px;
+}
+.last{
+    text-align: center;
+    width: 10%;
+    background-color: orange;
+    color: white;
+    margin: 20px 45%;    
+    padding: 10px;
+    border: none;
+}
+.red{
+    display: flex;
+}
+
+.test h2{
+    
+    margin-top: 50px;
+    padding: 10px;
+    font-size: 50px;
+    text-align: center;
+}
+.test{
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.table{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.sign{
+    text-align: center;
+}
+.more{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+input{
+    padding: 10px;
+    width: 50%;
+    font-size: 1.3rem;
+    margin: 0;
+    border: 1px solid orange;
+}
+
+.more .list{
+    padding: 10px;
+    width: 60px;
+    border: 5px solid orange;
+}
+
+footer{
+    background-color: #000;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    color: white;
+
+}
+
+.footer_image{
+    width: 10%;
+}
+
+.footer_image img{
+    width: 80%;
+}
+
+footer ul{
+    text-align: center;
+}
+
+footer ul li{
+    list-style-type: none;
+}
+
+footer ul li:first-child{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+footer ul li:nth-child(2){
+    color: red;
+}
+
+@media (max-width:767) {
+    nav{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.misuse .gallery{
+    display:flex;
+    flex-direction: column;
+}
+    }
+    nav img{
+        width: 100px;
+    }
+
+
+
+        @media (min-width=768) {
+            nav{
+                flex-wrap: wrap;
+            }
+            
+            
+.misuse .gallery{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+        }
+        
